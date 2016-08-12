@@ -19,12 +19,16 @@ ruby -v
 ```
 
 4. Download the script
+```sh
 yum -y install git
 git clone https://github.com/hojungyun/hsrv-install.git
+```
 
 5. Run the script
+```sh
 cd hsrv-install
 ./post_hsrv.rb
+```
 
 ### Development
 
@@ -34,4 +38,3 @@ The script includes the followings
 - Install ElasticSearch
 - Install MySQL
 - Install Ntpd
-
