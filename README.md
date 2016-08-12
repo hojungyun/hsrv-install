@@ -19,16 +19,16 @@ This is a ruby script to install hsrv host.
  ```
 
 4. Download the script from Github
-```sh
-yum -y install git
-git clone https://github.com/hojungyun/hsrv-install.git
-```
+ ```sh
+ yum -y install git
+ git clone https://github.com/hojungyun/hsrv-install.git
+ ```
 
 5. Run the script
-```sh
-cd hsrv-install
-./post_hsrv.rb
-```
+ ```sh
+ cd hsrv-install
+ ./post_hsrv.rb
+ ```
 
 ### Development
 
