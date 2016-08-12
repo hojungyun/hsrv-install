@@ -1,2 +1,2 @@
 # hsrv-install
-This is a shell script to install hsrv host.
+This is a ruby script to install hsrv host.
